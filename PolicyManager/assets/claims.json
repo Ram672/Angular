@@ -1,0 +1,44 @@
+ [
+        {
+    "claim_number": "CLM2569",
+   "claim_date": "12-05-2011",
+    "policy_number": "PLNO5895",
+    "claim_amount": "50000",
+    "approved_amount":"45000",
+    "approved_date":"25-2-2018",
+      "claim_status":"active"
+},
+{
+    "claim_number": "CLM2589",
+   "claim_date": "12-05-2000",
+    "policy_number": "PLNO1595",
+    "claim_amount": "100000",
+    "approved_amount":"45000",
+    "approved_date":"25-10-2011",
+      "claim_status":"active"
+},
+{
+   
+    "claim_number": "CLM7859",
+   "claim_date": "05-06-2014",
+    "policy_number": "PNO2316",
+    "claim_amount": "54656",
+    "approved_amount":"20156",
+    "approved_date":"15-5-2015",
+     "claim_status":"active"
+},
+{
+   
+    "claim_number": "CLM7123",
+   "claim_date": "05-06-2010",
+    "policy_number": "PNO2316",
+    "claim_amount": "50000",
+    "approved_amount":"50000",
+    "approved_date":"15-10-2010",
+     "claim_status":"closed"
+}
+
+
+]
+
+

@@ -1,0 +1,44 @@
+{
+  "policy": [
+    {
+      "policy_number": "PNO1251",
+      "policy_date": "12-05-2011",
+      "Insurer_name": "Ravindra",
+      "Insurer_dob": "12-05-2019",
+      "Nominee": "Father",
+      "Premium_type": "yearly",
+      "policy_comencement_date": "12-05-2015",
+      "Policy_status": "closed"
+    },
+    {
+      "policy_number": "PNO2316",
+      "policy_date": "05-06-2014",
+      "Insurer_name": "Ramanjulu",
+      "Insurer_dob": "12-05-1994",
+      "Nominee": "Father",
+      "Premium_type": "yearly",
+      "policy_comencement_date": "12-05-2015",
+      "Policy_status": "active"
+    },
+    {
+      "policy_number": "PNO2316",
+      "policy_date": "05-06-2014",
+      "Insurer_name": "Rajasekhar",
+      "Insurer_dob": "12-05-1994",
+      "Nominee": "Father",
+      "Premium_type": "yearly",
+      "policy_comencement_date": "12-05-2015",
+      "Policy_status": "active"
+    },
+    {
+      "policy_number": "PNO1256",
+      "policy_date": "12-05-2015",
+      "Insurer_name": "ragav",
+      "Insurer_dob": "12-2-2015",
+      "Nominee": "Father",
+      "Premium_type": "yearly",
+      "policy_comencement_date": "12-05-2015",
+      "Policy_status": "active"
+    }
+  ]
+}
